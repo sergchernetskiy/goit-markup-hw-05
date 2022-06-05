@@ -1,1 +1,1 @@
-# goit-markup-hw-04 - BACKGROUNDS and ICONS
+# goit-markup-hw-05 - Переходи та анімація
